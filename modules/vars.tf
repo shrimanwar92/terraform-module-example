@@ -3,11 +3,11 @@ variable "region" {
 }
 
 variable "access_key" {
-  default = "AKIATPWBFSSPPDEwrwerwer"
+  default = ""
 }
 
 variable "secret_key" {
-  default = "x1jXOolORW7pqSXRlV36lQiTNRstvkQe2XglW"
+  default = ""
 }
 
 locals {
